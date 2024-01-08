@@ -1,0 +1,15 @@
+PATH
+  remote: _plugins
+  specs:
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  my-kramdown-patch!
+
+BUNDLED WITH
+   1.11.2
